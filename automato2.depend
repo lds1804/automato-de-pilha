@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1370796300 source:c:\users\simone\desktop\automato 2\automato2\main.cpp
+	<stdio.h>
+	<string>
+	"automato2.h"
+
+1370796007 c:\users\simone\desktop\automato 2\automato2\automato2.h
+	"estado.h"
+	"alfabeto.h"
+	<string>
+
+1370797226 c:\users\simone\desktop\automato 2\automato2\estado.h
+	<string>
+
+1370781979 c:\users\simone\desktop\automato 2\automato2\alfabeto.h
+	<string>
+
+1370794081 source:c:\users\simone\desktop\automato 2\automato2\automato.cpp
+	"automato2.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1370797040 source:c:\users\simone\desktop\automato 2\automato2\estado.cpp
+	"estado.h"
+	<iostream>
+	<string>
+
+1370793953 source:c:\users\simone\desktop\automato 2\automato2\alfabeto.cpp
+	"alfabeto.h"
+	<iostream>
+	<string>
+
+1117508400 source:c:\documents and settings\leandro\desktop\automato 2\automato2\estado.cpp
+	"estado.h"
+	<iostream>
+	<string>
+
+1117508400 c:\documents and settings\leandro\desktop\automato 2\automato2\estado.h
+	<string>
+
+1370810001 source:c:\documents and settings\leandro\desktop\automato 2\automato2\alfabeto.cpp
+	"alfabeto.h"
+	<iostream>
+	<string>
+
+1370810001 c:\documents and settings\leandro\desktop\automato 2\automato2\alfabeto.h
+	<string>
+
+1370810074 source:c:\documents and settings\leandro\desktop\automato 2\automato2\automato.cpp
+	"automato2.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1370810097 c:\documents and settings\leandro\desktop\automato 2\automato2\automato2.h
+	"estado.h"
+	"alfabeto.h"
+	<string>
+
+1370953750 source:c:\users\simone\desktop\automato 3\automato2\estado.cpp
+	"estado.h"
+	<iostream>
+	<string>
+
+1370918280 c:\users\simone\desktop\automato 3\automato2\estado.h
+	<string>
+
+1370975003 source:c:\users\simone\desktop\automato 3\automato2\main.cpp
+	<stdio.h>
+	<string>
+	"automato2.h"
+	<iostream>
+	"pilha.h"
+
+1370952197 c:\users\simone\desktop\automato 3\automato2\automato2.h
+	"estado.h"
+	"alfabeto.h"
+	<string>
+
+1370919978 c:\users\simone\desktop\automato 3\automato2\alfabeto.h
+	<string>
+
+1370975003 source:c:\users\simone\desktop\automato 3\automato2\automato.cpp
+	"automato2.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1370952262 source:c:\users\simone\desktop\automato 3\automato2\alfabeto.cpp
+	"alfabeto.h"
+	<iostream>
+	<string>
+
+1370975106 c:\users\simone\desktop\automato 3\automato2\pilha.h
+
+1371249821 source:c:\users\simone\desktop\automato  de pilha\automato2\alfabeto.cpp
+	"alfabeto.h"
+	<iostream>
+	<string>
+
+1370919978 c:\users\simone\desktop\automato  de pilha\automato2\alfabeto.h
+	<string>
+
+1371354257 source:c:\users\simone\desktop\automato  de pilha\automato2\automato.cpp
+	"automato2.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1371352439 c:\users\simone\desktop\automato  de pilha\automato2\automato2.h
+	"estado.h"
+	"alfabeto.h"
+	<string>
+
+1371351911 c:\users\simone\desktop\automato  de pilha\automato2\estado.h
+	<string>
+
+1371351911 source:c:\users\simone\desktop\automato  de pilha\automato2\estado.cpp
+	"estado.h"
+	<iostream>
+	<string>
+
+1371348748 source:c:\users\simone\desktop\automato  de pilha\automato2\main.cpp
+	<stdio.h>
+	<string>
+	"automato2.h"
+	<iostream>
+	"pilha.h"
+	"automatodepilha.h"
+
+1371344040 c:\users\simone\desktop\automato  de pilha\automato2\pilha.h
+	<string>
+	<stdio.h>
+
+1371354547 source:c:\users\simone\desktop\automato  de pilha\automato2\automatodepilha.cpp
+	"automatodepilha.h"
+	<string>
+	<iostream>
+
+1371345416 c:\users\simone\desktop\automato  de pilha\automato2\automatodepilha.h
+	"automato2.h"
+	"pilha.h"
+
+1371344015 source:c:\users\simone\desktop\automato  de pilha\automato2\pilha.cpp
+	"pilha.h"
+	<string>
+
+1371434152 source:c:\users\simone\desktop\leandro\automato  de pilha\automato2\alfabeto.cpp
+	"alfabeto.h"
+	<iostream>
+	<string>
+
+1370919978 c:\users\simone\desktop\leandro\automato  de pilha\automato2\alfabeto.h
+	<string>
+
+1371687957 source:c:\users\simone\desktop\leandro\automato  de pilha\automato2\automato.cpp
+	"automato2.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1371424357 c:\users\simone\desktop\leandro\automato  de pilha\automato2\automato2.h
+	"estado.h"
+	"alfabeto.h"
+	<string>
+
+1371424357 c:\users\simone\desktop\leandro\automato  de pilha\automato2\estado.h
+	<string>
+
+1371699074 source:c:\users\simone\desktop\leandro\automato  de pilha\automato2\automatodepilha.cpp
+	"automatodepilha.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1371424935 c:\users\simone\desktop\leandro\automato  de pilha\automato2\automatodepilha.h
+	"automato2.h"
+	"pilha.h"
+
+1371395409 c:\users\simone\desktop\leandro\automato  de pilha\automato2\pilha.h
+	<string>
+	<stdio.h>
+
+1371424416 source:c:\users\simone\desktop\leandro\automato  de pilha\automato2\estado.cpp
+	"estado.h"
+	<iostream>
+	<string>
+
+1371698692 source:c:\users\simone\desktop\leandro\automato  de pilha\automato2\main.cpp
+	<stdio.h>
+	<string>
+	"automato2.h"
+	<iostream>
+	"pilha.h"
+	"automatodepilha.h"
+
+1371698946 source:c:\users\simone\desktop\leandro\automato  de pilha\automato2\pilha.cpp
+	"pilha.h"
+	<string>
+	<iostream>
+	<fstream>
+

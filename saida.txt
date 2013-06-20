@@ -1,0 +1,110 @@
+Cadeia i=n;i=n+(i*(n))e
+Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
+Submaquina atual 0 Estado atual: 1 Caractere atual: = Transita para: 2
+Transita para submaquina:1 Submaquina atual:0 Estado de retorno de submaquina: 3
+Empilha  Submaquina:0 Estado: 3
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Sem transicoes
+Desempilha submaquina: 0
+Desempilha estado: 3
+Submaquina atual 0 Estado atual: 3 Caractere atual: ; Transita para: 0
+Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
+Submaquina atual 0 Estado atual: 1 Caractere atual: = Transita para: 2
+Transita para submaquina:1 Submaquina atual:0 Estado de retorno de submaquina: 3
+Empilha  Submaquina:0 Estado: 3
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: + Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: ( Transita para: 1
+Transita para submaquina:1 Submaquina atual:1 Estado de retorno de submaquina: 2
+Empilha  Submaquina:1 Estado: 2
+Submaquina atual 1 Estado atual: 0 Caractere atual: i Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: * Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: ( Transita para: 1
+Transita para submaquina:1 Submaquina atual:1 Estado de retorno de submaquina: 2
+Empilha  Submaquina:1 Estado: 2
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Sem transicoes
+Desempilha submaquina: 1
+Desempilha estado: 2
+Submaquina atual 1 Estado atual: 2 Caractere atual: ) Transita para: 3
+Sem transicoes
+Desempilha submaquina: 1
+Desempilha estado: 2
+Submaquina atual 1 Estado atual: 2 Caractere atual: ) Transita para: 3
+Sem transicoes
+Desempilha submaquina: 0
+Desempilha estado: 3
+Submaquina atual 0 Estado atual: 3 Caractere atual: e Transita para: 3
+Cadeia aceita
+
+Cadeia i=n+n;i=n+(i*(n))e
+Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
+Submaquina atual 0 Estado atual: 1 Caractere atual: = Transita para: 2
+Transita para submaquina:1 Submaquina atual:0 Estado de retorno de submaquina: 3
+Empilha  Submaquina:0 Estado: 3
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: + Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Sem transicoes
+Desempilha submaquina: 0
+Desempilha estado: 3
+Submaquina atual 0 Estado atual: 3 Caractere atual: ; Transita para: 0
+Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
+Submaquina atual 0 Estado atual: 1 Caractere atual: = Transita para: 2
+Transita para submaquina:1 Submaquina atual:0 Estado de retorno de submaquina: 3
+Empilha  Submaquina:0 Estado: 3
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: + Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: ( Transita para: 1
+Transita para submaquina:1 Submaquina atual:1 Estado de retorno de submaquina: 2
+Empilha  Submaquina:1 Estado: 2
+Submaquina atual 1 Estado atual: 0 Caractere atual: i Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: * Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: ( Transita para: 1
+Transita para submaquina:1 Submaquina atual:1 Estado de retorno de submaquina: 2
+Empilha  Submaquina:1 Estado: 2
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Sem transicoes
+Desempilha submaquina: 1
+Desempilha estado: 2
+Submaquina atual 1 Estado atual: 2 Caractere atual: ) Transita para: 3
+Sem transicoes
+Desempilha submaquina: 1
+Desempilha estado: 2
+Submaquina atual 1 Estado atual: 2 Caractere atual: ) Transita para: 3
+Sem transicoes
+Desempilha submaquina: 0
+Desempilha estado: 3
+Submaquina atual 0 Estado atual: 3 Caractere atual: e Transita para: 3
+Cadeia aceita
+
+Cadeia i=n;i=n+(i*(n*))e
+Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
+Submaquina atual 0 Estado atual: 1 Caractere atual: = Transita para: 2
+Transita para submaquina:1 Submaquina atual:0 Estado de retorno de submaquina: 3
+Empilha  Submaquina:0 Estado: 3
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Sem transicoes
+Desempilha submaquina: 0
+Desempilha estado: 3
+Submaquina atual 0 Estado atual: 3 Caractere atual: ; Transita para: 0
+Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
+Submaquina atual 0 Estado atual: 1 Caractere atual: = Transita para: 2
+Transita para submaquina:1 Submaquina atual:0 Estado de retorno de submaquina: 3
+Empilha  Submaquina:0 Estado: 3
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: + Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: ( Transita para: 1
+Transita para submaquina:1 Submaquina atual:1 Estado de retorno de submaquina: 2
+Empilha  Submaquina:1 Estado: 2
+Submaquina atual 1 Estado atual: 0 Caractere atual: i Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: * Transita para: 0
+Submaquina atual 1 Estado atual: 0 Caractere atual: ( Transita para: 1
+Transita para submaquina:1 Submaquina atual:1 Estado de retorno de submaquina: 2
+Empilha  Submaquina:1 Estado: 2
+Submaquina atual 1 Estado atual: 0 Caractere atual: n Transita para: 3
+Submaquina atual 1 Estado atual: 3 Caractere atual: * Transita para: 0
+Nao transitou com caracetere)
+Cadeia nao aceita
+Automato nao transitou com um dos caracteres
+
