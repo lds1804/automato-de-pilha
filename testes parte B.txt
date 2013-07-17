@@ -1,18 +1,16 @@
 submaquina P
-  	        i = ; <E>
+		i	=	;	<E>
 0(inicial) 	1
-1			        2
-2					         3	
-3 final				  1
+1			2
+2					 3	
+3 final				1
 
-submaquina E
-
-		        i	  n	  ( 	)	  +	  -	  *	  /	  <E>
-0(inicial)	3	  3	  1
-1										                         2	
-2					              3
-3 final						          0	  0	  0	  0
-
+Submaquina E
+		i	n	(	)	+	-	*	/	<E>
+0(inicial)	3	3	1
+1										 2	
+2					3
+3 final						0	0	0	0
 
 Cadeia i=n+i-(i*n);i=(n/i)+n-i*(n)e
 Submaquina atual 0 Estado atual: 0 Caractere atual: i Transita para: 1
